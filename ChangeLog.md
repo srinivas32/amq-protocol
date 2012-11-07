@@ -1,4 +1,4 @@
-## Changes between 1.0.0.pre6 and 1.0.0.pre7
+## Changes between 0.9.5 and 0.9.6
 
 ### AMQ::Protocol::TLS_PORT
 
