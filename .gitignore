@@ -8,3 +8,4 @@ tmp
 Gemfile.lock
 .rbx/*
 bin/*
+.bundle/*
