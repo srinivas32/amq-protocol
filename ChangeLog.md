@@ -1,3 +1,10 @@
+## Changes between 1.0.0 and 1.0.1
+
+### Missing require
+
+`amq-protocol` now makes sure `DateTime` is loaded before trying to use it.
+
+
 ## Changes between 1.0.0.pre6 and 1.0.0.pre7
 
 ### AMQ::Settings
